@@ -1,0 +1,12 @@
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/bin/Debug/net6.0/TimeParsingLibrary.deps.json
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/bin/Debug/net6.0/TimeParsingLibrary.dll
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/bin/Debug/net6.0/TimeParsingLibrary.pdb
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.csproj.AssemblyReference.cache
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.AssemblyInfoInputs.cache
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.AssemblyInfo.cs
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.csproj.CoreCompileInputs.cache
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.dll
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/refint/TimeParsingLibrary.dll
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/TimeParsingLibrary.pdb
+/Users/danielgray/Source/esg-training-tech-test-2022/TimeParsingLibrary/obj/Debug/net6.0/ref/TimeParsingLibrary.dll
