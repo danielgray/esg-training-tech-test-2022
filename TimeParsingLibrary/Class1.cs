@@ -336,8 +336,6 @@ public static class Class1
                 {
                     y--;
                     mon = 12 - Math.Abs(mon - monthsToSubtract);
-                    // if we move back a year
-                    //mon++;
                 }
                 else
                 {
